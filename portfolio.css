@@ -1,0 +1,96 @@
+.wrapper {
+    background-color:  rgb(1, 1, 61);
+    border: 2px solid blanchedalmond;
+    padding: 20px; width: 845px;   
+    }
+
+.inner-wrapper  {
+    background-color: blanchedalmond;
+    border: 2px solid blanchedalmond;
+    border-radius: 20px; padding-left: 20px;
+    padding-right: 20px; padding-top: 50px;
+    width: 800px;
+    }
+
+.navbar {
+   font-size:18px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+   }
+
+   li a {
+    float: left;
+    color:  rgb(1, 1, 61); font-style: italic; font-weight: bold;
+    text-align: center;
+    padding: 14px 30px;
+    text-decoration: none;
+  }
+  
+   li a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+  }
+
+  button {
+    padding: 10px; border-color: blanchedalmond;
+    border-radius: 10px; margin-top: 7px; 
+    color: rgb(139, 86, 5); font-style: italic; font-weight: bold;
+    text-align: center; 
+    font-size: 16px;
+  }
+
+ .about {
+    display: flex;
+    margin-top: 35px;   
+ }
+
+ .hello {
+   padding-left: 35px; font-size: 22px; color: rgb(139, 86, 5);
+   margin-top: 0px; margin-bottom: 0px; padding-bottom: 15px;
+}
+
+span{
+   color: #555;
+}
+ #name{
+    color: rgb(1, 1, 51); font-size: 30px; font-style: italic;
+    font-weight: bold; margin-top: 0px; margin-bottom: 0px;
+ }
+
+ .journey {
+    display: flex;
+    margin-top: 5px;  
+ }
+
+ h3 {
+    color: rgb(1, 1, 51); font-style: italic; margin-bottom: 0px;
+ }
+
+ .study {
+   font-size: 22px; color: rgb(139, 86, 5);
+   margin-left: 0px; width: 600px; padding-top: 7px;
+   padding-bottom: 15px;
+
+}
+
+.skills {
+    color:  rgb(1, 1, 51); margin-top: 60px; padding-left: 25px;
+ }
+ 
+#module{
+   margin-right: 75px; 
+   margin-top: 7px; 
+   color:  rgb(139, 86, 5); font-style: italic; font-weight: bold;
+   text-align: center;  background-color: rgb(168, 229, 233);
+   font-size: 16px;
+}
+
+#module5{
+   margin-top: 7px; 
+   color:  rgb(139, 86, 5); font-style: italic; font-weight: bold;
+   text-align: center;  background-color: rgb(168, 229, 233);
+   font-size: 16px;
+}
